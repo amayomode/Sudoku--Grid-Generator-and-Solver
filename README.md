@@ -15,5 +15,5 @@ A simple game that generates a valid random  9 X 9 Sudoku grid and employs backt
       To see the solution to the grid simply click on the solve button
       
 ##### Requirements ####
-      *Pygame 1.9.6
+      * pygame 1.9.6 *
   
