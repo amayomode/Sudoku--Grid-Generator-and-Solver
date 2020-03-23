@@ -13,4 +13,7 @@ A simple game that generates a valid random  9 X 9 Sudoku grid and employs backt
       An interactive graphical user interface which displays a valid grid and one can attempt solving it by clicking on an empty cell and       filling it with a valid number from 1-9. The game only accepts valid numbers.
       
       To see the solution to the grid simply click on the solve button
+      
+##### Requirements ####
+Pygame 1.9.6
   
